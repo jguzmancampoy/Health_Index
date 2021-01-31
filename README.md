@@ -5,4 +5,6 @@ The data was pulled from https://www.ghsindex.org/ and I take no credit for the 
 
 Please note that the ipynb file was run in a remotely hosted Google Colab environment which means that the file dimensions.csv, additional_data.csv, and sentiment_analysis.csv will need to be downloaded and uploaded to Google Colab in order to replicate the results.
 
+The dimensions sheet in the data.xlsx contains the adjusted scores for the 7 countries where extra data was available
+
 Author: Julio Guzman Campoy
